@@ -1,8 +1,8 @@
 **Log on to codeastro.com for more projects!***
 
-**Database Name: tweetphp**
+**Database Name: forumphp**
 
-**Developed by Amin Yasser**
+**Developed by Vasu Gupta,2023**
 
 **Recommended PHP Version 5.6, 7**
 
