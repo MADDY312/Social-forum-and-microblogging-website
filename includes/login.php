@@ -1,6 +1,6 @@
 <?php
 
-    
+     
 ?>
     <form action="./handle/handlelogin.php" class="login-box" method="POST">
             <input class="input-box" name="email" type="email"  placeholder="Email">
